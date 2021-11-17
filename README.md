@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @tonny
-- 👀 I’m interested in backend & machine learning
-- 🌱 I’m currently learning laravel & nodejs 
-- 💞️ I’m looking to collaborate on anything related to backend
+- 👀 I’m interested in backend development, web development & machine learning
+- 🌱 I’m currently working with laravel, nodejs, ionic5 
+- 💞️ I’m looking to collaborate on anything related to backend development
 - 📫 technical.tonny.k@gmail.com
 
 <!---
